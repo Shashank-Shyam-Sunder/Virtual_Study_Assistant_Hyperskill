@@ -15,3 +15,6 @@ build
 /Virtual Study Assistant/task/*
 !/Virtual Study Assistant/task/study_assistant.py
 !/Virtual Study Assistant/task/test
+
+# Ignore Python cache files
+__pycache__/
