@@ -9,12 +9,16 @@ build
 # idea config
 .idea
 
+# Topics
+/Topics/*
+
 # old stages
 /Virtual Study Assistant/*
 !/Virtual Study Assistant/task/
 /Virtual Study Assistant/task/*
 !/Virtual Study Assistant/task/study_assistant.py
 !/Virtual Study Assistant/task/test
+/Virtual Study Assistant/task/study_assistant2.py
 
 # Ignore Python cache files
 __pycache__/
