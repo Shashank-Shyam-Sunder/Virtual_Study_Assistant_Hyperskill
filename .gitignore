@@ -10,7 +10,7 @@ build
 .idea
 
 # Topics
-/Topics/*
+Topics/
 
 # old stages
 /Virtual Study Assistant/*
