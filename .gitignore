@@ -17,8 +17,10 @@ Topics/
 !/Virtual Study Assistant/task/
 /Virtual Study Assistant/task/*
 !/Virtual Study Assistant/task/study_assistant.py
-!/Virtual Study Assistant/task/test
 /Virtual Study Assistant/task/study_assistant2.py
 
 # Ignore Python cache files
 __pycache__/
+
+# Ignore requirements.txt
+requirements.txt
