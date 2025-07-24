@@ -8,7 +8,7 @@ The Virtual Study Assistant helps you:
 - Create a personalized study plan with multiple subjects
 - Calculate total study time including recommended breaks
 - Track your study progress
-- Generate AI-powered motivational messages based on your progress
+- Generate AI-powered motivational messages based on your progress using the TinyLlama/TinyLlama-1.1B-Chat-v1.0 model
 
 ## Setup Instructions
 
